@@ -29,8 +29,8 @@ The sensitivity analysis examined patient age and maximum heart rate. Increasing
 
 4. Running Instructions
 
-4.1. Install Python and the required dependencies.
-4.2. Place the `heart_disease_uci.csv` dataset in the project directory.
-4.3. Open the project notebooks using Jupyter Notebook.
-4.4. Run the notebook cells in order, starting with data preparation and model development.
+- Install Python and the required dependencies.
+- Place the `heart_disease_uci.csv` dataset in the project directory.
+- Open the project notebooks using Jupyter Notebook.
+- Run the notebook cells in order, starting with data preparation and model development.
 
